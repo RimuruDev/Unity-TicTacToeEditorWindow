@@ -6,9 +6,6 @@
 
 ![image](https://github.com/RimuruDev/Unity-TicTacToeEditorWindow/assets/85500556/681706db-94c6-447a-86ba-745daf6f4d75)
 
-
-## Установка
-
 ### Требования
 - Редактор Unity (рекомендуется версия 2019.4 или новее).
 
