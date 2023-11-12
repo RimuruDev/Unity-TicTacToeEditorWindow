@@ -6,10 +6,6 @@ Welcome to the Tic Tac Toe game designed for the Unity Editor, created by Rimuru
 
 ![image](https://github.com/RimuruDev/Unity-TicTacToeEditorWindow/assets/85500556/24a06527-3a31-4744-aab1-b6dbcb3cb653)
 
-
-## Installation
-- TODO: Write about how to install
-
 ### Prerequisites
 - Unity Editor (2019.4 or later recommended).
 
