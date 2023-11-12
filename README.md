@@ -4,6 +4,9 @@
 
 Welcome to the Tic Tac Toe game designed for the Unity Editor, created by RimuruDev. This simple yet fun editor extension allows you to play the classic Tic Tac Toe game right within Unity!
 
+![image](https://github.com/RimuruDev/Unity-TicTacToeEditorWindow/assets/85500556/24a06527-3a31-4744-aab1-b6dbcb3cb653)
+
+
 ## Installation
 
 ### Prerequisites
